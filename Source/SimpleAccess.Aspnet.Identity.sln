@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAccess.MySql.AspNet.Identity", "SimpleAccess.MySql.AspNet.Identity\SimpleAccess.MySql.AspNet.Identity.csproj", "{EC3ADD94-5E1D-4A5F-BE06-788AC6C0E252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAccess.SqlServer.AspNet.Identity", "SimpleAccess.SqlServer.AspNet.Identity\SimpleAccess.SqlServer.AspNet.Identity.csproj", "{D0A44FFD-D951-414D-A4D5-DBE29BE93A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAccess.Oracle.AspNet.Identity", "SimpleAccess.Oracle.AspNet.Identity\SimpleAccess.Oracle.AspNet.Identity.csproj", "{AC45BC8E-5A14-415F-AAFD-68FBCDA43F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAccess.SqlServer.AspNet.Identity.CustomTypeExample", "..\Demo\SimpleAccess.SqlServer.AspNet.Identity.CustomTypeExample\SimpleAccess.SqlServer.AspNet.Identity.CustomTypeExample.csproj", "{1409789F-058B-4B3F-9F92-2B2FF9734CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3ADD94-5E1D-4A5F-BE06-788AC6C0E252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3ADD94-5E1D-4A5F-BE06-788AC6C0E252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3ADD94-5E1D-4A5F-BE06-788AC6C0E252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3ADD94-5E1D-4A5F-BE06-788AC6C0E252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A44FFD-D951-414D-A4D5-DBE29BE93A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A44FFD-D951-414D-A4D5-DBE29BE93A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A44FFD-D951-414D-A4D5-DBE29BE93A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A44FFD-D951-414D-A4D5-DBE29BE93A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC45BC8E-5A14-415F-AAFD-68FBCDA43F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC45BC8E-5A14-415F-AAFD-68FBCDA43F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC45BC8E-5A14-415F-AAFD-68FBCDA43F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC45BC8E-5A14-415F-AAFD-68FBCDA43F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1409789F-058B-4B3F-9F92-2B2FF9734CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1409789F-058B-4B3F-9F92-2B2FF9734CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1409789F-058B-4B3F-9F92-2B2FF9734CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1409789F-058B-4B3F-9F92-2B2FF9734CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
