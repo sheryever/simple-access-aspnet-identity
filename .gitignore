@@ -158,3 +158,4 @@ $RECYCLE.BIN/
 .DS_Store
 /Source/.vs
 /Source/packages
+/.vs
